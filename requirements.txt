@@ -1,4 +1,1 @@
-numpy
-pickle
-math
 -e git+https://github.com/jakevdp/JSAnimation#egg=JSAnimation
